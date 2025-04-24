@@ -1,5 +1,5 @@
 {
-    "name": "laracon21/timezones",
+    "name": "sumkc/timezones",
     "description": "My awesome package",
     "keywords": [
         "laracon21",
@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.1 || ^8.0",
         "illuminate/support": "*"
     },
     "require-dev": {
